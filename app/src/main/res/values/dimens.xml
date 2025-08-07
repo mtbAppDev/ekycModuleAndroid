@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp2">2dp</dimen>
+    <dimen name="fourDp">4dp</dimen>
+    <dimen name="eightDp">8dp</dimen>
+    <dimen name="dm12">12sp</dimen>
+    <dimen name="dp14">14dp</dimen>
+    <dimen name="dp20">20dp</dimen>
+    <dimen name="seek_bar_thickness">5dp</dimen>
+    <dimen name="seek_bar_thumb_size">25dp</dimen>
+
+    <!--Font Size Declaration-->
+    <dimen name="text10sp">10sp</dimen>
+    <dimen name="text14sp">14sp</dimen>
+    <dimen name="text16sp">16sp</dimen>
+    <dimen name="text18sp">18sp</dimen>
+    <dimen name="text20sp">20sp</dimen>
+    <dimen name="text22sp">22sp</dimen>
+    <dimen name="text24sp">24sp</dimen>
+    <dimen name="text26sp">26sp</dimen>
+    <dimen name="text28sp">28sp</dimen>
+    <dimen name="text30sp">30sp</dimen>
+    <dimen name="text32sp">32sp</dimen>
+    <dimen name="text34sp">34sp</dimen>
+    <dimen name="text36sp">36sp</dimen>
+    <dimen name="text38sp">38sp</dimen>
+</resources>

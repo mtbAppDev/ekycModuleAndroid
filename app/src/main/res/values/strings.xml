@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MTB e-Loan</string>
+    <string name="login_to_your_mtb_mobile_account">MTB e-Loan</string>
+    <string name="go_agent_profile">Move to Agent Profile</string>
+</resources>
