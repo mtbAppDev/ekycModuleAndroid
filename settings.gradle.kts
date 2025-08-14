@@ -22,8 +22,8 @@ dependencyResolutionManagement {
         }
         maven(url = "https://storage.googleapis.com/download.flutter.io")
         maven {
-           // url =uri("/Users/tanvir/Shimul Tamo/ekyc_Module_Repo_File/repo")
-            url =uri("/Users/tanvir/Xcode Projects/smart_banking/MTB-Smart-Banking-Module/build/host/outputs/repo")
+            url =uri("/Users/tanvir/Shimul Tamo/ekyc_Module_Repo_File/repo")
+           // url =uri("/Users/tanvir/Xcode Projects/smart_banking/MTB-Smart-Banking-Module/build/host/outputs/repo")
         }
 
     }

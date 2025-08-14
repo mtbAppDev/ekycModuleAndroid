@@ -46,7 +46,7 @@ dependencies {
     implementation(libs.multidex)
 
     // Image cropper dependency
-    implementation ("com.github.yalantis:ucrop:2.2.10")
+    implementation (libs.ucrop)
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
